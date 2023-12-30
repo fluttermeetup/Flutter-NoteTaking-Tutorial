@@ -1,6 +1,6 @@
 # simple_notetaking_app
 
-A new Flutter project.
+This marks the initial illustration in this tutorial series. In this instance, we construct a basic note-taking application where notes are stored in memory.
 
 ## Getting Started
 
