@@ -1,6 +1,6 @@
 # crud_notetaking_app
 
-This marks the second illustration in this tutorial series. In this instance, we construct a note-taking application with CRUD (Create, Read, Update, Delete) functionality where notes are still stored in memory.
+This marks the second illustration in this tutorial series. In this instance, we construct a note-taking application with **CRUD** (Create, Read, Update, Delete) functionality where notes are still stored in memory.
 
 In this version, I've added **_editNote** and **_deleteNote** methods to handle editing and deleting notes. The ListTile now has onTap and onLongPress handlers to trigger these actions.
 
