@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dart:developer' as dev;
+// import 'dart:developer' as dev;
 
 void main() {
   runApp(const SimpleNoteTakingApp());
